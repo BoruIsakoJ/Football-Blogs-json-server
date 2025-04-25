@@ -101,5 +101,3 @@ fetch("https://football-blogs-json-server.onrender.com/api/posts")
 
 Happy coding! ⚽🔥
 ```
-
-Let me know if you'd like me to include the GitHub badge, license, or add deploy button features.
