@@ -100,4 +100,3 @@ fetch("https://football-blogs-json-server.onrender.com/api/posts")
 ```
 
 Happy coding! ⚽🔥
-```
