@@ -15,8 +15,8 @@ This guide will help you deploy a fake REST API using `json-server` and host it 
 ### 1. Create a project folder
 
 ```bash
-mkdir < project-name -json-server
-cd <project-name -json-server
+mkdir <project-name> -json-server
+cd <project-name> -json-server
 ```
 
 ### 2. Initialize a Node.js project
